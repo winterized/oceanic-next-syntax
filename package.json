@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next",
+  "name": "oceanic-next-darker",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Based on the Sublime Text theme",
-  "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
+  "repository": "https://github.com/winterized/oceanic-next-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
